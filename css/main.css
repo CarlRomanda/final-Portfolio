@@ -1,0 +1,36 @@
+body{
+    background: url(../img/Presentation1.jpg);
+    Background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: #faab51;
+}
+
+h2{
+    color: #faab51;
+}
+
+h3{
+    color: #faab51;
+}
+
+h5{
+    color: #faab51;
+}
+#button{
+    background: #CE924C !important;
+}
+
+nav li a{
+    color: #CE924C;
+}
+
+.sidenav{
+    background: url(../img/Presentation1.jpg);
+    Background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
